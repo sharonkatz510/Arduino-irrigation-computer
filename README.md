@@ -10,6 +10,7 @@ for this project i used:
 7. a connector from the DV power supply to 3 Pin. (depands on the type of 12V DC power jack you have)
 7. USB male to female cable (optional, helps uploading the code to the arduino when all the parts are connected)
 8. jumper cables, breadboard, arduino cover etc.
+9. cable box for storing outdoors
 
 pro tips:
 1. the arduino is working on USB power so whenever you connect the arduino to the computer it turns on the arduino.
