@@ -1,4 +1,4 @@
-# watering-arduino-project
+# Arduino irrigation computer
 a code for an Arduino based moisture measuring and watering system.
 for this project i used:
 1. Arduino UNO R3
@@ -11,8 +11,3 @@ for this project i used:
 7. USB male to female cable (optional, helps uploading the code to the arduino when all the parts are connected)
 8. jumper cables, breadboard, arduino cover etc.
 9. cable box for storing outdoors
-
-pro tips:
-1. the arduino is working on USB power so whenever you connect the arduino to the computer it turns on the arduino.
-2. to check the moisture levels (in order to set the threshold) use the serial screen when the arduino is connected to the computer.
-3. read first about: Arduino relay, Arduino moisture sensor.
